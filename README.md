@@ -18,7 +18,7 @@ the top of each, obviously replacing brackets and 'title here' with what you'd l
 to call your configuration. now, you can use Xcfg two ways:
 
 ### max mode
-!(https://github.com/videotoblinski/Xcfg/blob/readme-things/2022-11-04-135801_756x543_scrot.png?raw=true)[scrot of max mode] 
+![scrot of max mode](https://github.com/videotoblinski/Xcfg/blob/readme-things/2022-11-04-135801_756x543_scrot.png?raw=true) 
 
 this mode is the default, just run `Xcfg` to access it. use the arrow keys to move
 the cursor around and press ENTER to apply a config. press BACKSPACE to quit with
@@ -26,7 +26,7 @@ no changes, or DEL to disable all configs temporarily.
 
 
 ### mini mode
-!(https://github.com/videotoblinski/Xcfg/blob/readme-things/2022-11-04-140632_756x543_scrot.png?raw=true)[scrot of min mode]
+![scrot of min mode](https://github.com/videotoblinski/Xcfg/blob/readme-things/2022-11-04-140632_756x543_scrot.png?raw=true)
 
 this mode is invoked like so:
 ```
@@ -39,4 +39,4 @@ it. follow the on-screen instructions.
 # bonus
 here's a scrot of max mode running in xterm :)
 
-!(https://github.com/videotoblinski/Xcfg/blob/readme-things/2022-11-04-140846_845x553_scrot.png?raw=true)[scrot of max mode, in 16 color mode :/]
+![scrot of max mode, in xterm](https://github.com/videotoblinski/Xcfg/blob/readme-things/2022-11-04-140846_845x553_scrot.png?raw=true)
